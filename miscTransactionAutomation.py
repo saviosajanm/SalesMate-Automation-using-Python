@@ -38,4 +38,5 @@ pyautogui.typewrite("Complement of 500Rs.")
 
 #Saving transaction and closing dialog
 pyautogui.press(['enter'], 1, 1)
+
 pyautogui.press(['enter', 'tab', 'enter'], 1, 3)
